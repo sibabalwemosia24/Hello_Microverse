@@ -7,4 +7,4 @@ VSCode
 ## Authors
 Github: @sibabalwemosia24
 ## license
-This Poject is MIT licensed
+This Poject is [MIT](./MIT.md) licensed
